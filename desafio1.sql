@@ -82,7 +82,7 @@ INSERT INTO SpotifyClone.Users (name, age, bundle_id, signature_date)
         ('Patrick', 33, 2, '2017-01-06'),
         ('Vivian', 26, 3, '2018-01-05'),
         ('Carol', 19, 3, '2018-02-14'),
-        ('Argelina', 42, 2, '2018-04-29'),
+        ('Angelina', 42, 2, '2018-04-29'),
         ('Paul', 46, 2, '2017-01-17');
         
 INSERT INTO SpotifyClone.Albums (name, year, artist_id)
@@ -128,7 +128,7 @@ INSERT INTO SpotifyClone.Musics (name, duration_sec, album_id)
 	VALUES
 		('Soul For Us', 200, 1),
         ('Reflections Of Magic', 163, 1),
-        ('Dance With Her Own', 1166, 1),
+        ('Dance With Her Own', 116, 1),
         ('Troubles Of My Inner Fire', 203, 2),
         ('Time Fireworks', 152, 2),
         ('Magic Circus', 105, 3),
